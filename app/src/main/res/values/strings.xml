@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gerenciamento de Times</string>
+    <string name="time">Time</string>
+    <string name="jogador">Jogador</string>
+    <string name="inicio">App de Gerenciamento de Times</string>
+    <string name="codigo">Codigo</string>
+    <string name="nome">Nome</string>
+    <string name="cidade">Cidade</string>
+    <string name="id">Id</string>
+    <string name="dataNasc">Data Nascimento</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Listar">Listar</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Excluir">Excluir</string>
+    <string name="Inserir">Inserir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
